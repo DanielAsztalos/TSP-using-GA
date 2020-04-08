@@ -14,5 +14,7 @@ Dependencia:
 
 Program futtatása:
 ```
-python tsa_ga.py
+python tsp_ga.py
 ```
+
+Python verzió: 3.6
